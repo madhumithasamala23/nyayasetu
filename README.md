@@ -26,7 +26,7 @@ It helps users discover schemes they are eligible for, understand requirements c
 
 ---
 ## 🌍 Live Demo
-[nyayasetu]([url](https://nyayasetu-app.netlify.app/))
+[nyayasetu-app](https://nyayasetu-app.netlify.app/)
 
 ---
 ## 🎯 Use Case
