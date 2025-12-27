@@ -25,10 +25,6 @@ It helps users discover schemes they are eligible for, understand requirements c
 - JavaScript 
 
 ---
-## 🌍 Live Demo
-[nyayasetu-app](https://nyayasetu-app.netlify.app/)
-
----
 ## 🎯 Use Case
 
 NyayaSetu is useful for:
