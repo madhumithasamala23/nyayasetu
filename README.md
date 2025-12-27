@@ -1,6 +1,4 @@
-# nyayasetu
-NyayaSetu – A civic-tech platform that helps citizens discover and apply for government welfare schemes.
-# NyayaSetu 🇮🇳
+# NyayaSetu
 
 NyayaSetu is a civic-tech web platform designed to bridge the information gap between citizens and government welfare schemes.
 
